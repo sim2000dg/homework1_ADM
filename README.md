@@ -1,5 +1,5 @@
 # homework1_ADM
-Repository for the first homework of the Algorithm Methods for Data Mining course @Sapienza
+Repository for the first homework of Algorithmic Methods for Data Mining @Sapienza
 
 
 In this repository there are three files and one directory. The three main files are:
