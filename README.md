@@ -1,4 +1,4 @@
-# homework1_ADM
+# Homework 1 ADM
 Repository for the first homework of Algorithmic Methods for Data Mining @Sapienza
 
 
