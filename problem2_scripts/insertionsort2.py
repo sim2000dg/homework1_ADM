@@ -1,6 +1,7 @@
 
 # Simply an extension of insertionsort1 where the whole array is taken
 # into consideration for the sorting
+# i is an accumulator variable which acts as the index from which the backward check starts
 def insertionSort2(n, arr):
     i = 2
     while i <= len(arr):
